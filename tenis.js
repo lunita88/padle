@@ -1,3 +1,5 @@
+// BraMi prokomentarisala :D
+
 var kanvas = document.getElementById("tabla");
 var tabla = kanvas.getContext("2d");
 var leviscore = 0;
