@@ -1,0 +1,14 @@
+.desni {
+    position: absolute;
+    top:1%;
+    left: 64%;
+    background-color: palevioletred;
+    font-style: oblique;
+    
+}
+.lijevi {
+    position: absolute;
+    top:1%;
+    background-color: palevioletred;
+    font-style: oblique;
+}
