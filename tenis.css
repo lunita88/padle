@@ -6,6 +6,11 @@
     font-style: oblique;
     
 }
+
+.novaklasa {
+    color: yellow;
+}
+
 .lijevi {
     position: absolute;
     top:1%;
